@@ -1,6 +1,6 @@
 The list below is 20 projects leading you to become a junior embedded software engineer
 
-- [ ] LED blinking (single/multiple LEDs), learning GPIO configuration, basic STM32CubeMX setup, C programming fundamentals.
+- [ ] LED blinking, learning GPIO configuration, basic STM32CubeMX setup, C programming fundamentals.
 - [ ] Button-controlled LED toggle, learning GPIO input/output, button debouncing.
 - [ ] PWM-based LED brightness control, Timer configuration, PWM generation.
 - [ ] ADC-based temperature sensor reading and display over UART, learning ADC setup, UART communication, handling analog data.
