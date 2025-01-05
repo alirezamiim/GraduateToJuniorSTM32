@@ -1,0 +1,5 @@
+D:/GitHub/JuniorToMidLevelSTM32/LEDBlinkingTimerBasedPatterm/build/Debug/CMakeFiles/LEDBlinkingTimerBasedPatterm.dir
+D:/GitHub/JuniorToMidLevelSTM32/LEDBlinkingTimerBasedPatterm/build/Debug/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/LEDBlinkingTimerBasedPatterm/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/LEDBlinkingTimerBasedPatterm/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/LEDBlinkingTimerBasedPatterm/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
