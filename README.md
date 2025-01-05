@@ -5,7 +5,7 @@ The list below is 20 projects leading you to become a junior embedded software e
 - [x] PWM-based LED brightness control, Timer configuration, PWM generation.
 - [x] Timer-based LED blinking (without delay), learning Timer interrupt configuration, event-based programming.
 - [x] ADC-Based Light Intensity Measurement with UART Display, learning ADC setup, UART communication, handling analog data.
-- [ ] Generate a square wave using timers, leaning Advanced timer configuration, waveform generation.
+- [ ] Implement a Timer-Based LED Blinking Pattern, learn Timer configuration for periodic interrupts.
 - [ ] Debounce a push button using software techniques, learning Logic implementation, software-based timing.
 - [ ] UART-based PC communication (send and receive data), learning UART initialization, basic serial communication.
 - [ ] SPI communication with an external EEPROM, learning SPI protocol, memory interfacing basics.
