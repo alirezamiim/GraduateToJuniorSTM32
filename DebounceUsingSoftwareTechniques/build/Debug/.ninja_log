@@ -1,0 +1,25 @@
+# ninja log v5
+4	20	0	clean	dd2bbfc2d1ca62bd
+64	631	7578206239597296	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	71217ecd20e85fd1
+1449	1613	7578206249705189	CMakeFiles/DebounceUsingSoftwareTechniques.dir/startup_stm32f401xe.s.obj	c4e1aa7c10336033
+631	1565	7578206249098297	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	ee9e4b71346f1a2a
+70	768	7578206241082914	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	c717c35e1083c144
+94	619	7578206239667015	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	c457284f0378027b
+80	763	7578206240648738	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	188d132be9c719e0
+22	709	7578206239810362	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Core/Src/stm32f4xx_it.c.obj	2227570470f48ba
+906	1449	7578206247619609	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Core/Src/sysmem.c.obj	bbd1273fba317dca
+77	731	7578206240375229	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	9ff3fa095fc540d0
+687	1553	7578206248998771	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	8c411e488a849f55
+67	687	7578206239969939	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	4f0c5acccba2f1c6
+61	628	7578206239507712	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Core/Src/stm32f4xx_hal_msp.c.obj	bf1725f32f310a14
+92	878	7578206241393897	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	dd0317795da50a36
+16	906	7578206241627445	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Core/Src/main.c.obj	854284c44e4bf7d4
+620	1444	7578206247569885	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	a4bdae863f95a7be
+768	1630	7578206249818776	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	65f9c8289961ece4
+709	1467	7578206247808134	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	582f614143ae6311
+731	1583	7578206249028692	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	2c7f2630bbf6a78b
+764	1626	7578206249818776	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	6bf1abbd67bae6f7
+628	1498	7578206248103994	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	ee9c03d4e7737f27
+879	1656	7578206250119515	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Core/Src/system_stm32f4xx.c.obj	6d2dd5b51824cc8d
+1444	1709	7578206250694168	CMakeFiles/DebounceUsingSoftwareTechniques.dir/Core/Src/syscalls.c.obj	32fb932b7f4e4976
+1709	2025	7578206253379652	DebounceUsingSoftwareTechniques.elf	5b4e6d17e6737acf

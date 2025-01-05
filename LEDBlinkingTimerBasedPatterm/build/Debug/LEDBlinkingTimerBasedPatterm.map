@@ -3102,12 +3102,11 @@ LOAD D:/Program Files/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm
  *(.bss)
  .bss           0x2000000c       0x1c D:/Program Files/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  *(.bss*)
- .bss.tim11Counter
-                0x20000028        0x1 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
-                0x20000028                tim11Counter
- *fill*         0x20000029        0x3 
- .bss.htim11    0x2000002c       0x48 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
-                0x2000002c                htim11
+ .bss.htim11    0x20000028       0x48 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
+                0x20000028                htim11
+ .bss.tim11Counter.0
+                0x20000070        0x1 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
+ *fill*         0x20000071        0x3 
  .bss.uwTick    0x20000074        0x4 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
                 0x20000074                uwTick
  *(COMMON)
@@ -3194,31 +3193,31 @@ LOAD D:/Program Files/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm
  .debug_frame   0x000026b8       0x2c D:/Program Files/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .debug_frame   0x000026e4       0x34 D:/Program Files/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
 
-.debug_info     0x00000000     0x87f8
- .debug_info    0x00000000      0xd1b CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
- .debug_info    0x00000d1b      0x6da CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_info    0x000013f5      0xa90 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_info    0x00001e85     0x2996 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_info    0x0000481b     0x14d4 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_info    0x00005cef      0x8f1 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_info    0x000065e0      0x6f9 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_info    0x00006cd9      0xcf6 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_info    0x000079cf      0x8bb CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_info    0x0000828a      0x53e CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_info    0x000087c8       0x30 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/startup_stm32f401xe.s.obj
+.debug_info     0x00000000     0x87f9
+ .debug_info    0x00000000      0xd1c CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
+ .debug_info    0x00000d1c      0x6da CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x000013f6      0xa90 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x00001e86     0x2996 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_info    0x0000481c     0x14d4 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_info    0x00005cf0      0x8f1 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x000065e1      0x6f9 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x00006cda      0xcf6 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x000079d0      0x8bb CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x0000828b      0x53e CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x000087c9       0x30 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/startup_stm32f401xe.s.obj
 
-.debug_abbrev   0x00000000     0x161b
- .debug_abbrev  0x00000000      0x265 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
- .debug_abbrev  0x00000265      0x1a5 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_abbrev  0x0000040a      0x1c1 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_abbrev  0x000005cb      0x28b CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_abbrev  0x00000856      0x296 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_abbrev  0x00000aec      0x2b6 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_abbrev  0x00000da2      0x1d3 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_abbrev  0x00000f75      0x31d CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_abbrev  0x00001292      0x24b CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_abbrev  0x000014dd      0x11a CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_abbrev  0x000015f7       0x24 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/startup_stm32f401xe.s.obj
+.debug_abbrev   0x00000000     0x161a
+ .debug_abbrev  0x00000000      0x264 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000264      0x1a5 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x00000409      0x1c1 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x000005ca      0x28b CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_abbrev  0x00000855      0x296 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000aeb      0x2b6 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x00000da1      0x1d3 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000f74      0x31d CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x00001291      0x24b CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x000014dc      0x11a CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x000015f6       0x24 CMakeFiles/LEDBlinkingTimerBasedPatterm.dir/startup_stm32f401xe.s.obj
 
 .debug_aranges  0x00000000      0x968
  .debug_aranges

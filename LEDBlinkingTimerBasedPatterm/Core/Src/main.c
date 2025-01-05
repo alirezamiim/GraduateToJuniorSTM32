@@ -36,7 +36,7 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-uint8_t tim11Counter = 0;
+
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
@@ -216,7 +216,8 @@ static void MX_GPIO_Init(void)
 
 /* USER CODE BEGIN 4 */
 void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim){
-  
+  static uint8_t tim11Counter = 0; // using static to let tim11Counter value store in memory for future 
+
   if(htim->Instance == TIM11){
     if(tim11Counter == 19)
     tim11Counter=0;
