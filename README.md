@@ -3,8 +3,8 @@ The list below is 20 projects leading you to become a junior embedded software e
 - [x] LED blinking, learning GPIO configuration, basic STM32CubeMX setup, C programming fundamentals.
 - [x] Button-controlled LED toggle, learning GPIO input/output, button debouncing.
 - [x] PWM-based LED brightness control, Timer configuration, PWM generation.
+- [x] Timer-based LED blinking (without delay), learning Timer interrupt configuration, event-based programming.
 - [ ] ADC-Based Light Intensity Measurement with UART Display and Control System, learning ADC setup, UART communication, handling analog data.
-- [ ] Timer-based LED blinking (without delay), learning Timer interrupt configuration, event-based programming.
 - [ ] Generate a square wave using timers, leaning Advanced timer configuration, waveform generation.
 - [ ] Debounce a push button using software techniques, learning Logic implementation, software-based timing.
 - [ ] UART-based PC communication (send and receive data), learning UART initialization, basic serial communication.
