@@ -1,4 +1,4 @@
-The list below is 20 projects leading you to become a junior embedded software engineer
+The list below is 20 projects using Nucleo-STM32f401RE leading you to become a junior embedded software engineer
 
 - [x] LED blinking, learning GPIO configuration, basic STM32CubeMX setup, C programming fundamentals.
 - [x] Button-controlled LED toggle, learning GPIO input/output, button debouncing.
