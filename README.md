@@ -7,7 +7,7 @@ The list below is 20 projects using Nucleo-STM32f401RE leading you to become a j
 - [x] ADC-Based Light Intensity Measurement with UART Display, learning ADC setup, UART communication, handling analog data.
 - [x] Implement a Timer-Based LED Blinking Pattern, learn Timer configuration for periodic interrupts.
 - [x] Debounce a push button using software techniques, learning Logic implementation, software-based timing.
-- [ ] UART-based PC communication (send and receive data), learning UART initialization, basic serial communication.
+- [x] UART-based PC communication (send and receive data), learning UART initialization, basic serial communication.
 - [ ] SPI communication with an external EEPROM, learning SPI protocol, memory interfacing basics.
 - [ ] Read data from an I2C temperature sensor (e.g., LM75), learning I2C protocol, reading sensor data.
 - [x] Create a delay function using a hardware timer, learning timer-based delays.
