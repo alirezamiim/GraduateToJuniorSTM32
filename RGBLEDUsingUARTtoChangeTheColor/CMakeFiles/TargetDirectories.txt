@@ -1,0 +1,5 @@
+D:/GitHub/JuniorToMidLevelSTM32/RGBLEDUsingUARTtoChangeTheColor/CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir
+D:/GitHub/JuniorToMidLevelSTM32/RGBLEDUsingUARTtoChangeTheColor/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/RGBLEDUsingUARTtoChangeTheColor/CMakeFiles/rebuild_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/RGBLEDUsingUARTtoChangeTheColor/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/RGBLEDUsingUARTtoChangeTheColor/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

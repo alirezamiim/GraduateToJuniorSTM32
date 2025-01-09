@@ -1,0 +1,26 @@
+# ninja log v5
+41	1078	7580877620118398	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	d881f86e341730a7
+29	838	7580877618788268	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Core/Src/stm32f4xx_hal_msp.c.obj	1356d1dca54a7cef
+53	1208	7580877622068392	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	94467fbb01679c29
+4	22	0	clean	dd2bbfc2d1ca62bd
+45	963	7580877619398299	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	f277508b535af870
+60	880	7580877619118911	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	1e2225ecc22d562a
+37	1504	7580877625378404	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	b010dd4cf06b5864
+1208	2584	7580877635466363	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	a46f1673d28e53a2
+64	1028	7580877620358366	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	492bc778b8fef519
+26	749	7580877618168170	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Core/Src/stm32f4xx_it.c.obj	364408ade80dddb1
+34	1822	7580877626908665	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	6a8fa52f121ab780
+750	2204	7580877631468190	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	adbc9988a9e07de0
+1504	2872	7580877639494755	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	167831749d0f5718
+1078	2691	7580877636845584	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	38a8177910cbbcd7
+21	1022	7580877619519108	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Core/Src/main.c.obj	8072570211c50ffc
+963	2688	7580877636865528	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	34c3464238b40163
+1028	2677	7580877637255196	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	34537a52c485492c
+838	2106	7580877630628487	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	5669fa7bd4c9d432
+880	2696	7580877637655047	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	5447236ee3eb3677
+1022	2377	7580877633957792	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	7e3ab1b247191577
+2377	2719	7580877637984776	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/startup_stm32f401xe.s.obj	1c7572307052bf09
+2106	2738	7580877638194507	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Core/Src/sysmem.c.obj	f8ecbf95d6b495b6
+2204	2864	7580877639434897	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Core/Src/syscalls.c.obj	8bea7dc069931742
+1822	3009	7580877640854990	CMakeFiles/RGBLEDUsingUARTtoChangeTheColor.dir/Core/Src/system_stm32f4xx.c.obj	8db2764751b545b1
+3009	3298	7580877643581511	RGBLEDUsingUARTtoChangeTheColor.elf	792928a18b34207
