@@ -12,7 +12,7 @@ The list below is 20 projects using Nucleo-STM32f401RE leading you to become a j
 - [ ] Read data from an I2C temperature sensor (e.g., LM75), learning I2C protocol, reading sensor data.
 - [x] Create a delay function using a hardware timer, learning timer-based delays.
 - [x] Control an RGB LED using PWM and GPIOs, learning Multi-channel PWM, color control logic.
-- [ ] Read an analog joystick position using ADC, learning ADC multi-channel reading, analog-to-digital conversion.
+- [x] Read an analog joystick position using ADC, learning ADC multi-channel reading, analog-to-digital conversion.
 - [ ] Implement a basic stopwatch using a timer and GPIO, learning Timer events, GPIO input/output.
 - [ ] Measure Execution Time of Code Blocks Using Timers and SD card and UART, learning Advance Timer
 - [ ] Generate a sine wave using DAC and a lookup table, learning DAC configuration, waveform synthesis.
