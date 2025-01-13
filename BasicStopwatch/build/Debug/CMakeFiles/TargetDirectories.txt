@@ -1,0 +1,5 @@
+D:/GitHub/JuniorToMidLevelSTM32/BasicStopwatch/build/Debug/CMakeFiles/BasicStopwatch.dir
+D:/GitHub/JuniorToMidLevelSTM32/BasicStopwatch/build/Debug/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/BasicStopwatch/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/BasicStopwatch/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/BasicStopwatch/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
