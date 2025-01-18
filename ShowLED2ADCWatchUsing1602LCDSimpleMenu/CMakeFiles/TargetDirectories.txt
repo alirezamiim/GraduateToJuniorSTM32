@@ -1,0 +1,5 @@
+D:/GitHub/JuniorToMidLevelSTM32/ShowLED2ADCWatchUsing1602LCDSimpleMenu/CMakeFiles/ShowLED2ADCWatchUsing1602LCDSimpleMenu.dir
+D:/GitHub/JuniorToMidLevelSTM32/ShowLED2ADCWatchUsing1602LCDSimpleMenu/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/ShowLED2ADCWatchUsing1602LCDSimpleMenu/CMakeFiles/rebuild_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/ShowLED2ADCWatchUsing1602LCDSimpleMenu/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/GitHub/JuniorToMidLevelSTM32/ShowLED2ADCWatchUsing1602LCDSimpleMenu/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
