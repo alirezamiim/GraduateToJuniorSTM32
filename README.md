@@ -17,6 +17,6 @@ The list below is 20 projects using Nucleo-STM32f401RE leading you to become a j
 - [ ] Measure Execution Time of Code Blocks Using Timers and SD card and UART, learning Advance Timer
 - [ ] Generate a sine wave using DAC and a lookup table, learning DAC configuration, waveform synthesis.
 - [ ] Create a simple tone generator using PWM for sound output, learning PWM frequency modulation.
-- [ ] Interface a 16x2 LCD using GPIO (in 4-bit or 8-bit mode), learning LCD interfacing, GPIO manipulation.
+- [x] Interface a 16x2 LCD using GPIO (in 4-bit or 8-bit mode), learning LCD interfacing, GPIO manipulation.
 - [ ] Implement a digital thermometer using an external sensor, learning Sensor interfacing, data formatting.
 - [ ] Implement a software-controlled buzzer, learning GPIO control, sound generation logic.
